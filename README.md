@@ -18,5 +18,12 @@ after.py test_after.py
 ## Install
 
 ```bash
-pip install -r requirements.txt  # Its mainly just pytest as a requirement for testing
+pip install -r requirements.txt  # Its mainly just pytest/mypy as a requirement for testing
 ```
+
+
+## YouTube
+
+Here is link to my YouTube Series on refactoring:
+
+https://www.youtube.com/playlist?list=PL3kg5TcOuFloWus4r4WK446Ul8rYn7URs
